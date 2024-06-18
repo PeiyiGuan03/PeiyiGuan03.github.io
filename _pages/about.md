@@ -34,7 +34,7 @@ Relevant Course: Data Visualization, Writting, Theory of Communication.
 
 ## 📜 Past studies and publications
 -  The Generation of Urban Communicative Space Based on GeoMedia - An Investigation of Social Bookstores in Beijing
--  you can see the former work of my graduation thesis in [this page](https://peiyiguan03.github.io/bookstore/).
+-  you can see [the former work of my graduation thesis in here](https://peiyiguan03.github.io/bookstore/).
 -  Farmers' Willingness and Causes to Local Urbanization under the Perspective of Rural Revitalization
 -  Social participation in the water governance under the "Hezhangzhi" policy
 -  Contributed to part of the book [<News: The First Draft of History>](https://www.dushu.com/book/13814338/), writting a historical and cultural study about the fake advertising on the newspaper ShenBao.
