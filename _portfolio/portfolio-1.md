@@ -9,3 +9,7 @@ Night view of Hakodate Mountain
 
 <img src='/images/hakodate/hakodate_4.jpg'>
 Monkeys at the Botanical Museum bathing in a hot spring
+
+<img src='/images/hakodate/hakodate_6.jpg'>
+
+<img src='/images/hakodate/hakodate_7.jpg'>
