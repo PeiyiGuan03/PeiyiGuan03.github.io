@@ -4,7 +4,7 @@ excerpt: "The most impressive sunset I have seen <br/><img src='/images/fujisan/
 collection: portfolio
 ---
 
-- to climb Fuji Moutain, you should prepare
+- To climb Fuji Moutain, you should prepare
 ✅Friends and partners who can encourage you!
 ✅Good weather conditions
 ✅Professional equipment including windbreaker, mountaineering shoes, mountaineering poles, gloves and headlamps(rental service)
