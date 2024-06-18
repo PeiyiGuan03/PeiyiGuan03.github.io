@@ -22,15 +22,15 @@ redirect_from:
 # Professional Experience
 
 ## 🌲 Hokkaido University - Master - 2023-2025
-Major in [International Media Academy](https://www.imc.hokudai.ac.jp/). 
+Major in [International Media Academy](https://www.imc.hokudai.ac.jp/). </br>
 Relevant Course: Statistic, Marketing, Tourism develepment.
 
 ## 📚 Impact of the perceived risk from overtourism on travel intention
-A qualitative research of how Chinese tourists make decision on whether tarvelling to Kyoto.
+A qualitative research of how Chinese tourists make decision on whether tarvelling to Kyoto. </br>
 You can [click here](https://peiyiguan03.github.io//posts/2024/06/blog-post-1/)to see why I choose Kyoto and search for area in Japan to see its visitor load. 
 
 ## 🌱 Communication University of China - Undergraduate - 2017-2021
-Major in Data Journalism. 
+Major in Data Journalism. </br>
 Relevant Course: Data Visualization, Writting, Theory of Communication.
 
 ## 📜 Past studies and publications
