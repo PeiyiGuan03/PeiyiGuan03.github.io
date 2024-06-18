@@ -27,7 +27,7 @@ Relevant Course: Statistic, Marketing, Tourism develepment.
 
 ## 📚 Impact of the perceived risk from overtourism on travel intention
 A qualitative research of how Chinese tourists make decision on whether tarvelling to Kyoto.
-You can [click here](url: /posts/2024/06/blog-post-1/)to see why I choose Kyoto and search for area in Japan to see its visitor load. 
+You can [click here](/posts/2024/06/blog-post-1/)to see why I choose Kyoto and search for area in Japan to see its visitor load. 
 
 ## 🌱 Communication University of China - Undergraduate - 2017-2021
 Major in Data Journalism. 
