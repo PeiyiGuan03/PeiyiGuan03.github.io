@@ -1,6 +1,6 @@
 ---
 title: "Fuji Mountain"
-excerpt: "The most impressive sunset I have seen Aug 2022 <br/><img src='/images/fujisan/fujisan_8.jpg'>"
+excerpt: "The most impressive sunset I have seen. Aug 2022 <br/><img src='/images/fujisan/fujisan_8.jpg'>"
 collection: portfolio
 ---
 
