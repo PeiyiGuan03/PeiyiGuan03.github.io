@@ -11,7 +11,7 @@ redirect_from:
 
 
 ![Illustration of perfect yuanji](/images/yuanji.jpg){: .align-right width="300px"}
-👩‍💻 I'm a graduate student at Hokkaido Universitythe.
+👩‍💻 I'm a graduate student at Hokkaido University.
 
 🌏 My research interests are marketing of tourism and sustainable destination development!
 
