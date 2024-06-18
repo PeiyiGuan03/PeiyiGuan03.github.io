@@ -21,7 +21,7 @@ repository               : "PeiyiGuan03/PeiyiGuan03.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Peiyi Guan"
   pronouns         : # example: "she/her"  
   bio              : "A communication researcher who doesn't want to do coding is not a good photographer"
