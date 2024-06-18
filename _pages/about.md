@@ -37,10 +37,10 @@ Relevant Course: Data Visualization, Writting, Theory of Communication.
 -  you can see [the former work of my graduation thesis in here](https://peiyiguan03.github.io/bookstore/).
 -  Farmers' Willingness and Causes to Local Urbanization under the Perspective of Rural Revitalization
 -  Social participation in the water governance under the "Hezhangzhi" policy
--  Contributed to part of the book [<News: The First Draft of History>](https://www.dushu.com/book/13814338/), writting a historical and cultural study about the fake advertising on the newspaper ShenBao.
+-  Contributed to part of the book [<News: The First Draft of History>](https://www.dushu.com/book/13814338/), which is about a historical and cultural study of the fake advertising on the newspaper ShenBao.
 
 ## 🎙 Press work
-- Provided creative scripts for [a manga showing the harajuku culture of Japan](https://mangadejapan.com/articles/detail/1309).
+- Provided creative draft for [a Manga](https://mangadejapan.com/articles/detail/1309)showing the harajuku culture of Japan.
 
 
 
