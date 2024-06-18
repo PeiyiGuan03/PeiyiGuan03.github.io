@@ -11,11 +11,11 @@ redirect_from:
 
 
 ![Illustration of perfect yuanji](/images/yuanji.jpg){: .align-right width="300px"}
-👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
+👨🏻‍💻 I'm a graduate student at Hokkaido Universitythe.
 
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
+🔬 My research interests are marketing of tourism and sustainable destination development!
 
-📚 I'm currently working towards my Master's Thesis in the field of Vision-Language-Modelling.
+📚 I'm currently working towards my Master's Thesis about the impact of the perceived risk from overtourism.
 
 📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
