@@ -5,18 +5,12 @@ collection: portfolio
 ---
 
 - To climb Fuji Moutain, you should prepare:
-
-✅Friends and partners who can encourage you!
-
-✅Good weather conditions
-
-✅Professional equipment including windbreaker, mountaineering shoes, mountaineering poles, gloves and headlamps(rental service)
-
-✅At least 2 liters of water and food for energy
-
-✅Recommand:raincoat, band-aid, 100yen coins, rechargeable treasure, knee warmers, baby warmers
-
-✅don't forget to buy climbing insurance
+  - ✅Friends and partners who can encourage you!
+  - ✅Good weather conditions
+  - ✅Professional equipment including windbreaker, mountaineering shoes, mountaineering poles, gloves and headlamps(rental service)
+  - ✅At least 2 liters of water and food for energy
+  - ✅Recommand:raincoat, band-aid, 100yen coins, rechargeable treasure, knee warmers, baby warmers
+  - ✅don't forget to buy climbing insurance
 
 <img src='/images/fujisan/fujisan_1.jpg'>
 <img src='/images/fujisan/fujisan_2.jpg'>
