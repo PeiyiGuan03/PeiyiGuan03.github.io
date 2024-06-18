@@ -26,7 +26,7 @@ Major in [International Media Academy](https://www.imc.hokudai.ac.jp/).
 Relevant Course: Statistic, Marketing, Tourism develepment.
 
 ## 📚 Impact of the perceived risk from overtourism on travel intention
-A qualitative research of how Chinese tourists make decision on whether to tarvel on Kyoto.
+A qualitative research of how Chinese tourists make decision on whether tarveling to Kyoto.
 
 ## 🌱 Communication University of China - Undergraduate - 2017-2021
 Major in Data Journalism. 
