@@ -1,6 +1,6 @@
 ---
 title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+excerpt: "Travel in Hakodate, Japan. Jan 2024 <br/><img src='/images/hakodate/hakodate_5.jpg'>"
 collection: portfolio
 ---
 
