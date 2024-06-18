@@ -41,7 +41,7 @@ Relevant Course: Data Visualization, Writting, Theory of Communication.
 
 ## 🎙 Press work
 - Provided creative draft for [a Manga](https://mangadejapan.com/articles/detail/1309) showing the harajuku culture of Japan.
-- A report on [how Intangible Cultural Heritage seek for alive in dilemma](/files/feiyi.pdf)
+- A report on [how Intangible Cultural Heritage seek for alive in a dilemma](/files/feiyi.pdf)
 
 
 
