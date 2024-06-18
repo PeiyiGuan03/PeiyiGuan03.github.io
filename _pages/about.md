@@ -41,7 +41,7 @@ Relevant Course: Data Visualization, Writting, Theory of Communication.
 
 ## 🎙 Press work
 - Provided creative draft for [a Manga](https://mangadejapan.com/articles/detail/1309) showing the harajuku culture of Japan.
-- A press on [the rise of fresh food e-commerce and related business chains during the Covid-19](https://stopsmoking.github.io/fresh/%E7%94%9F%E9%B2%9C%E7%94%B5%E5%95%86.html).
+- A report on [how Intangible Cultural Heritage seek change in a time of dilemma](/files/feiyi.pdf)
 
 
 
